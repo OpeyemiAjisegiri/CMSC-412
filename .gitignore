@@ -3,6 +3,7 @@
 *.ccls-cache
 *.breakpoints
 main-debug
+main
 main.o
 Makefile
 replit.nix
